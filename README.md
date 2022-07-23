@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parisashafa im 24 and i am a data scientist student in IUT
+- 👋 Hi, I’m @parisashafa im 24 and i am a data science  student in IUT
 - 👀 I am interested in reading philosophy books and swimming
 - 🌱 I’m interested in medical dataminig and social media dataminig
 
