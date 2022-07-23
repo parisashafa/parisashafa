@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @parisashafa im 23 and i am a data scientist student in IUT
+- 👋 Hi, I’m @parisashafa im 24 and i am a data scientist student in IUT
 - 👀 I am interested in reading philosophy books and swimming
-- 🌱 I’m currently learning R and rapidminer and openbugs and statistic learning
+- 🌱 I’m interested in medical dataminig and social media dataminig
 
 <!---
 parisashafa/parisashafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
