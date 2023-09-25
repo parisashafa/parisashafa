@@ -1,8 +1,8 @@
 -  Hi, I’m @parisashafa
--  im 24 and i am a data science student in IUT
+-  im 25 and i am a tiny data scientist :)
 -  I am interested in reading philosophy books and swimming
 -  I’m interested in medical dataminig and social media dataminig 
--  These days, I am busy studying the english for the IELTS test and watching machine learning and deep learning courses on YouTube
+-  These days, I am busy getting better in my field and upgrade my skills
 
 <!---
 parisashafa/parisashafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
